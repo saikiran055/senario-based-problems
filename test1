@@ -1,0 +1,115 @@
+Find the greatest common divisor (GCD).
+Find the least common multiple (LCM).
+Check if a number is Armstrong.
+Find all Armstrong numbers between 1 and N.
+Check if a number is perfect number.
+Print Fibonacci series up to N terms.
+Find the Nth Fibonacci number.
+Check if a string is palindrome.
+Count the number of vowels in a string.
+Count the number of words in a sentence.
+Find the largest element in an array.
+Find the smallest element in an array.
+Find the sum of elements in an array.
+Find the average of elements in an array.
+Reverse an array.
+Find duplicate elements in an array.
+Sort an array in ascending order.
+Sort an array in descending order.
+Search for an element in an array.
+Merge two arrays.
+Find the second largest element in an array.
+Find the second smallest element in an array.
+Rotate an array by K positions.
+Find the frequency of each element in an array.
+Remove duplicate elements from an array.
+Print a square pattern of stars.
+Print a right triangle pattern of stars.
+Print an inverted triangle pattern of stars.
+Print a pyramid pattern of stars.
+Print a diamond pattern of stars.
+Print Floyd’s triangle.
+Print Pascal’s triangle.
+Print number pyramid.
+Print an inverted number pyramid.
+Print a checkerboard pattern.
+Print multiplication triangle.
+Print hollow square pattern.
+Print hollow triangle pattern.
+Print cross (X) pattern.
+Print plus (+) pattern.
+Reverse a string.
+Find the length of a string.
+Concatenate two strings.
+Compare two strings.
+Convert string to uppercase.
+Convert string to lowercase.
+Count frequency of each character in a string.
+Find first non-repeating character in a string.
+Find first repeating character in a string.
+Remove vowels from a string.
+Replace spaces with hyphens in a string.
+Check if two strings are anagrams.
+Find all substrings of a string.
+Check if a substring exists in a string.
+Remove duplicate characters from a string.
+Find power of a number using loop.
+Find power of a number using recursion.
+Calculate sum of digits using recursion.
+Find factorial using recursion.
+Find GCD using recursion.
+Find LCM using recursion.
+Generate Fibonacci series using recursion.
+Find maximum element in array using recursion.
+Find minimum element in array using recursion.
+Check if a number is prime using recursion.
+Check palindrome string using recursion.
+Find binary representation of a number.
+Convert binary to decimal.
+Convert decimal to binary.
+Convert decimal to hexadecimal.
+Find sum of diagonal elements in a matrix.
+Find transpose of a matrix.
+Add two matrices.
+Subtract two matrices.
+Multiply two matrices.
+Find determinant of a matrix.
+Check if a matrix is symmetric.
+Find upper triangular matrix.
+Find lower triangular matrix.
+Find sum of each row of a matrix.
+Find sum of each column of a matrix.
+Check if a matrix is identity matrix.
+Check if a matrix is sparse.
+Search an element in matrix.
+Print boundary elements of a matrix.
+Implement linear search.
+Implement binary search.
+Implement bubble sort.
+Implement selection sort.
+Implement insertion sort.
+Implement merge sort.
+Implement quick sort.
+Implement heap sort.
+Find median of array.
+Find mode of array.
+Find mean of array.
+Check if array is sorted.
+Find missing number in array (1 to N).
+Find duplicate number in array (1 to N).
+Find majority element in array.
+Solve Tower of Hanoi problem.
+Solve N-Queens problem (N=4).
+Find shortest path in a graph (Dijkstra).
+Find minimum spanning tree (Prim’s).
+Find minimum spanning tree (Kruskal’s).
+Check if a graph is connected.
+Check if a graph has a cycle.
+Implement depth-first search (DFS).
+Implement breadth-first search (BFS).
+Find factorial using stack implementation.
+Evaluate postfix expression.
+Convert infix expression to postfix.
+Implement queue using arrays.
+Implement stack using arrays.
+Check balanced parentheses using stack
